@@ -1,4 +1,4 @@
-module github.com/njylll2/gomod-test
+module github.com/njylll2/gomod-test/v2
 
 go 1.21.1
 
