@@ -2,6 +2,6 @@ package c
 
 import "fmt"
 
-func tag() {
+func Tag() {
 	fmt.Println("c包 tag v1.0.1")
 }
